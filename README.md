@@ -66,7 +66,7 @@ SQLite is a C-language library that implements a small, fast, self-contained, hi
  
  # Demonstration of the tool
  
-  ![grab-landing-page](https://git.generalassemb.ly/bethpadera-GA/CHI-DSI9-TEAM-FLOOD/blob/master/app-final-gif.gif)
+  ![grab-landing-page](https://github.com/bethpadera/CHI-DSI9-PROJECT-FLOOD/blob/master/app-final-gif.gif)
  
 # Challenges
 * Inability to find news sources documentation flood events before.
