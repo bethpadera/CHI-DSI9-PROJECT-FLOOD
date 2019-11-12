@@ -1,4 +1,4 @@
-# Extracting Historic Flood Information from News Sources: A collaboration between New Light Technologies and General Assembly's Data Science Immersive students.
+# Extracting Historic Flood Information from News Sources: A collaboration between New Light Technologies and General Assembly's Data Science Immersive students
 
 New Light Technologies (NLT) is an organization founded in 2003 which provides comprehensive information technology solutions for clients in government, commercial, and non-profit sectors, including FEMA (the Federal Emergency Management Agency), the U.S. Census Bureau, and The World Bank.
 
