@@ -10,7 +10,7 @@ Our team at General Assembly for this project is  Payal Chodha, Alicja Ligas, Be
 
 Historically, floods have caused significant economic damage and human casualties in developing cities. To help governments better understand geographical exposure to floods, there is a need for a product that automatically compiles useful information about historic events. As a result, we chose to work on a tool that scans online news sources and extracts data about historic floods in Punjab, India.
 
-Floods are a severely underestimated natural disaster. In fact, they account for almost half of all natural disasters. They have a detrimental impact on human quality of life (health, nutrition, livelihood,...) particularly in rural areas that are heavily agricultural. Nearly one third of the world’s entire population has been affected by disastrous floods between 1994 and 2013!
+Floods are a severely underestimated natural disaster. In fact, they account for almost half of all natural disasters. They have a detrimental impact on human quality of life (health, nutrition, and livelihood) particularly in rural areas that are heavily agricultural. Nearly one third of the world’s entire population has been affected by disastrous floods between 1994 and 2013.
 Floods remain a major cause of natural disasters in India. In fact, mortality rates tied to floods have actually been on the rise in India despite dropping in the rest of the world. 
 
 This year alone, over a million people lost their homes and had to move to relief camps due to severe floods.
@@ -18,9 +18,9 @@ This year alone, over a million people lost their homes and had to move to relie
 # Directory Links
 
 *  [News-Sources-Gathering-Cleaning-and-combining](https://git.generalassemb.ly/bethpadera-GA/CHI-DSI9-TEAM-FLOOD/tree/master/News%20Sources%20-%20Gathering%2C%20Cleaning%2C%20Combining)
-* [Data](https://git.generalassemb.ly/bethpadera-GA/CHI-DSI9-TEAM-FLOOD/tree/master/data)
-* [Weather](https://git.generalassemb.ly/bethpadera-GA/CHI-DSI9-TEAM-FLOOD/tree/master/Weather)
-* [Econ](https://git.generalassemb.ly/bethpadera-GA/CHI-DSI9-TEAM-FLOOD/tree/master/Econ)
+* [Data](https://github.com/bethpadera/CHI-DSI9-PROJECT-FLOOD/tree/master/data)
+* [Weather](https://github.com/bethpadera/CHI-DSI9-PROJECT-FLOOD/tree/master/Weather)
+* [Econ](https://github.com/bethpadera/CHI-DSI9-PROJECT-FLOOD/tree/master/Econ)
 
 # Process Overview
 
